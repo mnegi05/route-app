@@ -1,0 +1,2802 @@
+[
+    {
+        "model": "MacBook Air 13 M2",
+        "brand": "Apple",
+        "ram": "8GB",
+        "hardDisk": "256GB SSD",
+        "processor": "M2",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 13 M2",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M2",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 13 M3",
+        "brand": "Apple",
+        "ram": "8GB",
+        "hardDisk": "256GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 13 M3",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 15 M3",
+        "brand": "Apple",
+        "ram": "8GB",
+        "hardDisk": "256GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 15 M3",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M3",
+        "brand": "Apple",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M3 Pro",
+        "brand": "Apple",
+        "ram": "18GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 16 M3 Pro",
+        "brand": "Apple",
+        "ram": "18GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 16 M3 Max",
+        "brand": "Apple",
+        "ram": "36GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3 Max",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 13 9350",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 13 9350",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 13 9345",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Snapdragon X Elite",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 14 9440",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 16 9640",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 14 5430",
+        "brand": "Dell",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 15 3530",
+        "brand": "Dell",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 14 5435",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Latitude 5440",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Latitude 7440",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Dell G15 5530",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Alienware m16 R1",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 14",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 15",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 15",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 15",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Pavilion 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Pavilion 15",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Envy x360 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Spectre x360 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP EliteBook 840",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP ProBook 440",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Omen 16",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Victus 15",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Victus 16",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad E14 Gen 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad E16 Gen 1",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad T14 Gen 4",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5 PRO",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad T14 Gen 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad X1 Carbon Gen 11",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad X1 Carbon Gen 12",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad Slim 3",
+        "brand": "Lenovo",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad Slim 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Yoga Slim 6",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Yoga 7",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Legion 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Legion Pro 5",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "VivoBook 15 X1504",
+        "brand": "Asus",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "VivoBook 14 X1404",
+        "brand": "Asus",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "VivoBook S 15",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Zenbook 14 OLED",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Zenbook 14 OLED",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Zenbook Duo",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Strix G16",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Strix G18",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "TUF Gaming A15",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "TUF Gaming F15",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Aspire 3 A315",
+        "brand": "Acer",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Aspire 5 A515",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Aspire 5",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Swift Go 14",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Swift Go 16",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Swift X 14",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Nitro V 15",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Nitro 16",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Predator Helios 16",
+        "brand": "Acer",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Predator Helios Neo 16",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Modern 14",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Modern 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Prestige 14",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Prestige 16",
+        "brand": "MSI",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Creator M16",
+        "brand": "MSI",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Katana 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Cyborg 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Raider GE68",
+        "brand": "MSI",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Galaxy Book4",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Galaxy Book4 Pro",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Galaxy Book4 Ultra",
+        "brand": "Samsung",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Galaxy Book3",
+        "brand": "Samsung",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Galaxy Book3 Pro",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LG Gram 14",
+        "brand": "LG",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LG Gram 16",
+        "brand": "LG",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LG Gram 17",
+        "brand": "LG",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LG Gram Pro 16",
+        "brand": "LG",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Surface Laptop 5 13",
+        "brand": "Microsoft",
+        "ram": "8GB",
+        "hardDisk": "256GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Surface Laptop 5 15",
+        "brand": "Microsoft",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Surface Laptop 7 13",
+        "brand": "Microsoft",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Snapdragon X Plus",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Surface Laptop 7 15",
+        "brand": "Microsoft",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Snapdragon X Elite",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air M2 13",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M2",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air M3 13",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M3",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 16 9640",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 16 5630",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Pavilion Plus 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP EliteBook 840",
+        "brand": "HP",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad T14s Gen 4",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad P1 Gen 6",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad Pro 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Yoga Pro 7",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 15 M3 16GB",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air 15 M3 24GB",
+        "brand": "Apple",
+        "ram": "24GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M3 Pro 18GB",
+        "brand": "Apple",
+        "ram": "18GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M3 Pro 36GB",
+        "brand": "Apple",
+        "ram": "36GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 16 M3 Pro 36GB",
+        "brand": "Apple",
+        "ram": "36GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 16 M3 Max 48GB",
+        "brand": "Apple",
+        "ram": "48GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M3 Max",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 16 M3 Max 64GB",
+        "brand": "Apple",
+        "ram": "64GB",
+        "hardDisk": "2TB SSD",
+        "processor": "M3 Max",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air M2 15",
+        "brand": "Apple",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M2",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Air M2 13",
+        "brand": "Apple",
+        "ram": "24GB",
+        "hardDisk": "1TB SSD",
+        "processor": "M2",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MacBook Pro 14 M2 Pro",
+        "brand": "Apple",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "M2 Pro",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 13 9340",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 13 9340 32GB",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 14 9440 OLED",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "XPS 16 9640 RTX",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 14 5440",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 14 5445",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 16 5640",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Inspiron 16 5645",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Latitude 5450",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Latitude 5550",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Latitude 7450",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Precision 3581",
+        "brand": "Dell",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Precision 5680",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "G16 7630 Gaming",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Alienware m18 R1",
+        "brand": "Dell",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 14s",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i3",
+        "rating": "3",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 14s Ryzen",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 15s",
+        "brand": "HP",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP 15s Ryzen 7",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Pavilion Plus 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Pavilion Plus 16",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Envy 14",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Envy x360 15",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP Spectre x360 16",
+        "brand": "HP",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP EliteBook 640 G10",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP EliteBook 860 G10",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP ProBook 450 G10",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP ProBook 460 G11",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP ZBook Firefly 14 G10",
+        "brand": "HP",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "HP ZBook Power 16 G10",
+        "brand": "HP",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad E14 Gen 6",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad E16 Gen 2",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad L14 Gen 4",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad L15 Gen 4",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad T16 Gen 2",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad X13 Gen 4",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ThinkPad X1 Yoga Gen 8",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad 1",
+        "brand": "Lenovo",
+        "ram": "8GB",
+        "hardDisk": "256GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "3",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad Slim 5 Gen 8",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "IdeaPad Flex 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Yoga 6",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Yoga 9i",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Legion Slim 5",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Legion Pro 7i",
+        "brand": "Lenovo",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LOQ 15",
+        "brand": "Lenovo",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Vivobook Go 15",
+        "brand": "Asus",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Vivobook 15",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Vivobook 16",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Vivobook S 14",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Vivobook S 16",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Zenbook 13 OLED",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Zenbook 14 OLED",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS Zenbook 15 OLED",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS ExpertBook B1",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ASUS ExpertBook B9",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Flow X13",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Zephyrus G14",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Zephyrus G16",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "ROG Strix Scar 16",
+        "brand": "Asus",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "TUF Gaming A16",
+        "brand": "Asus",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Aspire 3",
+        "brand": "Acer",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i3",
+        "rating": "3",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Aspire 5",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Aspire 5 Ryzen",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Swift Go 14",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Swift Go 14 OLED",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Swift Go 16",
+        "brand": "Acer",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Swift Edge 16",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer TravelMate P2",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Extensa 15",
+        "brand": "Acer",
+        "ram": "8GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i3",
+        "rating": "3",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Chromebook 515",
+        "brand": "Acer",
+        "ram": "8GB",
+        "hardDisk": "128GB SSD",
+        "processor": "Intel Core i3",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Nitro V 15",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Nitro 16",
+        "brand": "Acer",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Predator Helios Neo 16",
+        "brand": "Acer",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Predator Triton Neo 16",
+        "brand": "Acer",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Acer Predator Helios 18",
+        "brand": "Acer",
+        "ram": "32GB",
+        "hardDisk": "2TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Modern 14",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Modern 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "AMD Ryzen 7",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Thin 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Cyborg 14",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Katana 15",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Pulse 17",
+        "brand": "MSI",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Raider GE68",
+        "brand": "MSI",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "MSI Titan 18 HX",
+        "brand": "MSI",
+        "ram": "64GB",
+        "hardDisk": "2TB SSD",
+        "processor": "Intel Core i9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core i5",
+        "rating": "4",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4 Pro 14",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4 Pro 16",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 7",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4 Ultra",
+        "brand": "Samsung",
+        "ram": "32GB",
+        "hardDisk": "1TB SSD",
+        "processor": "Intel Core Ultra 9",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4 Edge 14",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Snapdragon X Elite",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "Samsung Galaxy Book4 Edge 16",
+        "brand": "Samsung",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Snapdragon X Elite",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240"
+        ]
+    },
+    {
+        "model": "LG Gram 14",
+        "brand": "LG",
+        "ram": "16GB",
+        "hardDisk": "512GB SSD",
+        "processor": "Intel Core Ultra 5",
+        "rating": "5",
+        "images": [
+            "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=360&h=240",
+            "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=360&h=240"
+        ]
+    }
+]

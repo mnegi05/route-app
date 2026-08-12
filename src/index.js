@@ -6,12 +6,14 @@ import MainComponent from './components/myPortal/mainComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter } from 'react-router-dom';
 import CoursesMainComponent from './components/courses/coursesMainComponent';
+import LaptopMainComponent from './components/laptop/mainComponent';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
       {/* <MainComponent /> */}
-      <CoursesMainComponent />
+      {/* <CoursesMainComponent /> */}
+      <LaptopMainComponent />
     </BrowserRouter>
   </React.StrictMode>
 );
