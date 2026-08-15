@@ -7,13 +7,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter } from 'react-router-dom';
 import CoursesMainComponent from './components/courses/coursesMainComponent';
 import LaptopMainComponent from './components/laptop/mainComponent';
+import CompanyMainComponent from './components/jx_company/mainComponent';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
       {/* <MainComponent /> */}
       {/* <CoursesMainComponent /> */}
-      <LaptopMainComponent />
+      {/* <LaptopMainComponent /> */}
+      <CompanyMainComponent />
     </BrowserRouter>
   </React.StrictMode>
 );
