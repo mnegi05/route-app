@@ -27,6 +27,11 @@ class NavBar extends Component {
                                 Contact
                             </Link>
                         </li>
+                        <li className="nav-item">
+                            <Link to="/newProduct" className="nav-link">
+                                Add Product
+                            </Link>
+                        </li>
                     </ul>
                 </div>
             </nav>

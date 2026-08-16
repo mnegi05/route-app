@@ -16,3 +16,16 @@ Also, in the product page make the ID of each product clickable and navigate it 
 ###
 A product has the fields category and brand. Make the brand and category clickable in the Products and Product component which navigates to URLs /brand/:brandName and /category/:categoryName
 use the Products page to display the details
+
+###
+Add a form to enter the details of a new product. When the submit button is clicked, add the details of the new product and navigate to /products
+
+###
+In the MyPortal app, use query parameters to show products with in a minumum specified price. Eg.
+    - /products?minPrice=30
+    - /products?minPrice=55
+    - /products
+Note that the minPrice is optional. It may or may not be present in the URL
+
+###
+In the Product Component, show dropdowns to take the input for query parameters. Whenever an option is changed navigate to the URL with the specified query parameters.
